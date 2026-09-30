@@ -1,4 +1,4 @@
-# Application - VærSikret
+# 🌦️ Application - VærSikret
 # 📦 How to run the app
 ---
 1. Download and install [Android Studio](https://developer.android.com/studio/install)
